@@ -1,0 +1,14 @@
+#root {
+    height: 100vh;
+}
+
+body {
+    overflow: hidden;
+    background-color: #C3BCAA;
+}
+
+.posts-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
